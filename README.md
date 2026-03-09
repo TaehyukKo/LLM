@@ -1,2 +1,2 @@
-# LLM_KTH
+# LLM
 using LLM (EDA Tool SKILL)
